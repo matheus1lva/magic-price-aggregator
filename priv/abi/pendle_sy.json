@@ -1,0 +1,25 @@
+[
+  {
+    "inputs": [],
+    "name": "assetInfo",
+    "outputs": [
+      {
+        "internalType": "uint8",
+        "name": "assetType",
+        "type": "uint8"
+      },
+      {
+        "internalType": "address",
+        "name": "assetAddress",
+        "type": "address"
+      },
+      {
+        "internalType": "uint8",
+        "name": "assetDecimals",
+        "type": "uint8"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]

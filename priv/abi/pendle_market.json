@@ -1,0 +1,25 @@
+[
+  {
+    "inputs": [],
+    "name": "readTokens",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "_SY",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_PT",
+        "type": "address"
+      },
+      {
+        "internalType": "address",
+        "name": "_YT",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
